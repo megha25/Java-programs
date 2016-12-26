@@ -9,6 +9,7 @@ public class Circle {
       c1.calculateArea(5);
       c1.calculateArea(2.67);
 	}
+	//Method overloading to implement polymorphism
 	private void calculateArea(double radius) {
 		// TODO Auto-generated method stub
 		double c_area;
